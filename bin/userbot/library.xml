@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<library>
+    <musicLibrary>
+        <path>D:\musa</path>
+        <fileNum>1</fileNum>
+        <lastId>0</lastId>
+    </musicLibrary>
+    <songs>
+        <song>
+            <id>0</id>
+            <title>Phir Bhi Tumko Chahunga - PagalWorld.cool</title>
+            <artist>Music: Mithoon | PagalWorld.cool</artist>
+            <album>Half Girlfriend - PagalWorld.com</album>
+            <length>351</length>
+            <trackNumber>02</trackNumber>
+            <discNumber>1</discNumber>
+            <playCount>0</playCount>
+            <playDate>2018-03-21T11:33:43.584</playDate>
+            <location>D:\musa\02 Phir Bhi Tumko Chahunga (Arijit Singh) 320Kbps.mp3</location>
+        </song>
+    </songs>
+    <playlists/>
+    <nowPlayingList/>
+</library>

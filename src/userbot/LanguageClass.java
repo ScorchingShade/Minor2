@@ -147,6 +147,11 @@ public class LanguageClass {
 					fileOpenCall();
 					break;
 				}
+				
+				else if((s[i].equals("vibes")||s[i].equals("Vibe")||s[i].equals("vibe")||s[i].equals("Vibes"))){
+					MusicPlayer();
+					break;
+				}
 				else if(s[i].equals("")){
 					response="Umm sorry I didn't get that!";
 				}
@@ -403,5 +408,14 @@ public class LanguageClass {
 	    	response="Could not open the file "+file;
 	    	}
 	    }
-	
+	void MusicPlayer() {
+		Runtime rs = Runtime.getRuntime();
+	    try {
+	      rs.exec("java -jar MusicPlayer.jar");
+	      response="opening Music Player!";
+	    }
+	    catch (IOException e) {
+	      System.out.println(e);
+	    }   	    
+	}
 }

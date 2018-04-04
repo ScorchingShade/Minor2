@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<library>
+    <musicLibrary>
+        <path>D:\music1</path>
+        <fileNum>4</fileNum>
+        <lastId>3</lastId>
+    </musicLibrary>
+    <songs>
+        <song>
+            <id>0</id>
+            <title>Phir Bhi Tumko Chahunga - PagalWorld.cool</title>
+            <artist>Music: Mithoon | PagalWorld.cool</artist>
+            <album>Half Girlfriend - PagalWorld.com</album>
+            <length>351</length>
+            <trackNumber>02</trackNumber>
+            <discNumber>1</discNumber>
+            <playCount>0</playCount>
+            <playDate>2018-03-21T12:54:04.297</playDate>
+            <location>D:\music1\02 Phir Bhi Tumko Chahunga (Arijit Singh) 320Kbps.mp3</location>
+        </song>
+        <song>
+            <id>1</id>
+            <title>Castle on the Hill</title>
+            <artist/>
+            <album>Castle on the Hill - Single</album>
+            <length>262</length>
+            <trackNumber>1</trackNumber>
+            <discNumber>0</discNumber>
+            <playCount>0</playCount>
+            <playDate>2018-03-21T12:54:04.305</playDate>
+            <location>D:\music1\Castle on the Hill by Ed Sheeran 128Kbps (Songspksongspk.audio).mp3</location>
+        </song>
+        <song>
+            <id>2</id>
+            <title/>
+            <artist/>
+            <album/>
+            <length>235</length>
+            <trackNumber>0</trackNumber>
+            <discNumber>0</discNumber>
+            <playCount>0</playCount>
+            <playDate>2018-03-21T12:54:04.309</playDate>
+            <location>D:\music1\Ed_Sheeran_-_Shape_Of_You_Official_Lyric_Video.imack_.co_.mp3</location>
+        </song>
+        <song>
+            <id>3</id>
+            <title>The Chainsmokers - Paris (Lyric)</title>
+            <artist/>
+            <album>youtube.com/watch?v=RhU9MZ98jxo</album>
+            <length>228</length>
+            <trackNumber>0</trackNumber>
+            <discNumber>0</discNumber>
+            <playCount>0</playCount>
+            <playDate>2018-03-21T12:54:04.313</playDate>
+            <location>D:\music1\The Chainsmokers Paris.mp3</location>
+        </song>
+    </songs>
+    <playlists/>
+    <nowPlayingList/>
+</library>
